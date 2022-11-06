@@ -21,7 +21,7 @@ Her projenin, oyunların taşındığını görmek istediğimiz dillere karşıl
 
 > ⚠️ Bir proje olarak, depoda IDE'ye özgü veya derlemeye özgü herhangi bir dosya istemediğimize karar verdiğimizi lütfen unutmayın. Lütfen yalnızca belirli bir IDE veya belirli bir yapı sistemi ile çalışmak için var olan dosyaları depoya teslim etmekten kaçının.
 
-### AAlternatif Diller
+### Alternatif Diller
 
 Programlardan birini listemizde olmayan bir dile, yani bellek güvenli olmayan veya genel amaçlı bir betik dili olmayan bir dile taşımak isterseniz, bunu `00_Alternate_Languages` klasörü aracılığıyla yapabilirsiniz. Bağlantı noktanızı uygun oyun alt klasörüne, dil için adlandırılmış bir alt klasöre yerleştirin. Lütfen bu limanların takdir edildiğini, ancak projenin sonunda toplam bağış tutarına dahil edilmeyeceklerini unutmayın.
 
