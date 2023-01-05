@@ -4,7 +4,7 @@ her proje için tüm orijinal BASIC kaynak kodunu bir klasöre taşıdım.
 
 > Tüm oyunları sizin kurcalama keyfiniz için buraya ekledim. Vintage BASIC ile çalışacaklarından emin olmak için her birini test ettim ve ince ayar yaptım, ancak birkaç tuhaflık görebilirsiniz. BASIC ile oynamanın eğlencesinin bir parçası da bu: iki makinede asla aynı şekilde çalışmaz. Büyük harf girişi ile kullanılmak üzere tasarlandıkları için CAPS LOCK'u açık tutarsanız oyunlar daha iyi oynayacaktır.
 
-Her projenin, oyunların taşındığını görmek istediğimiz dillere karşılık gelen alt klasörleri vardır. Bu, bu gönderiye göre bellek güvenli ve genel amaçlı komut dosyası dilleri olan 2022 TIOBE en iyi diller dizinine dayanmaktadır:
+Her projenin, oyunların taşındığını görmek istediğimiz dillere karşılık gelen alt klasörleri vardır. Bu, bu gönderiye göre bellek güvenli ve genel amaçlı komut dosyası dilleri olan 2023 TIOBE en iyi diller dizinine dayanmaktadır:
 
 1. C# 
 2. Java
@@ -17,7 +17,7 @@ Her projenin, oyunların taşındığını görmek istediğimiz dillere karşıl
 9. Rust
 10. VB.NET
 
-> 📢 Mart 2022'de Pascal / Object Pascal'ı kaldırdığımızı ve Pascal'ın etkili bir şekilde bellek güvenli olup olmadığını belirleyemediğimiz için onu Rust ile değiştirdiğimizi unutmayın. TIOBE'de (2022 itibariyle) ilk 20'ye girdiği ve hem bellek açısından güvenli hem de bir betik dili olduğu için Lua'yı da ekledik. Pascal bağlantı noktaları, alternatif diller klasörüne taşındı. 
+> 📢 Mart 2023'de Pascal / Object Pascal'ı kaldırdığımızı ve Pascal'ın etkili bir şekilde bellek güvenli olup olmadığını belirleyemediğimiz için onu Rust ile değiştirdiğimizi unutmayın. TIOBE'de (2023 itibariyle) ilk 20'ye girdiği ve hem bellek açısından güvenli hem de bir betik dili olduğu için Lua'yı da ekledik. Pascal bağlantı noktaları, alternatif diller klasörüne taşındı. 
 
 > ⚠️ Bir proje olarak, depoda IDE'ye özgü veya derlemeye özgü herhangi bir dosya istemediğimize karar verdiğimizi lütfen unutmayın. Lütfen yalnızca belirli bir IDE veya belirli bir yapı sistemi ile çalışmak için var olan dosyaları depoya teslim etmekten kaçının.
 
